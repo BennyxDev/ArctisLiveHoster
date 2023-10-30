@@ -13,7 +13,3 @@ Author: BennyxDev
 Website: https://arctis-network.serveftp.com
 Discord: https://discord.gg/jQsJjhwrcM
 EMail: arctis.netzwerk@aol.com
-
-###############################END###############################
-
-MIT LICENSED.
